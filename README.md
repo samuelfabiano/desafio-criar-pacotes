@@ -13,7 +13,7 @@ pip install combustivel
 ## Utilização
 
 ```python
-from from combustivel import calc_combustivel
+from combustivel import calc_combustivel
 calc_combustivel.calcula_litros()
 ```
 
