@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: combustivel
-Version: 0.0.1
-Home-page: 
+Version: 0.0.2
+Home-page: https://github.com/samuelfabiano/desafio-criar-pacotes.git
 Author: Samuel
 Author-email: samufabiano@yahoo.com.br
 Requires-Python: >=3.8
@@ -22,7 +22,7 @@ pip install combustivel
 ## UtilizaÃ§Ã£o
 
 ```python
-from from combustivel import calc_combustivel
+from combustivel import calc_combustivel
 calc_combustivel.calcula_litros()
 ```
 

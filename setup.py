@@ -8,7 +8,7 @@ with open("requirements.txt", "r") as f:
 
 setup(
     name="combustivel",
-    version="0.0.1",
+    version="0.0.2",
     author="Samuel",
     author_email="samufabiano@yahoo.com.br",
     desription="Calcular a quantidade de litros gastos em uma viagem",
@@ -17,5 +17,5 @@ setup(
     url="https://github.com/samuelfabiano/desafio-criar-pacotes.git",
     packages=find_packages(),
     install_requires=requirements,
-python_requires='>=3.8',
+    python_requires='>=3.8',
 )
