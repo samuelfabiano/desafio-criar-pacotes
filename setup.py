@@ -14,7 +14,7 @@ setup(
     desription="Calcular a quantidade de litros gastos em uma viagem",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/samuelfabiano/desafio-criar-pacotes.git",
     packages=find_packages(),
     install_requires=requirements,
 python_requires='>=3.8',
